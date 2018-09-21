@@ -1,6 +1,6 @@
 package com.ex.gestion;
 
-abstract class Employe {
+public abstract class Employe {
 	
 
 	private String nom, prenom, dateEntree;
