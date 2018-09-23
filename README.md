@@ -8,4 +8,3 @@ https://www.cours-gratuit.com/java/exercice-java-heritage-et-interfaces-primes-d
 * Static
 * Interface
 * Collection
-
